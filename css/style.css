@@ -1,0 +1,19 @@
+
+  .jumbotron {
+
+    background-image: url("../images/belly.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+ color: #2d327a;
+text-shadow: 2px 2px #b4b8f0;
+
+
+
+  }
+
+ 
+body {
+background-color: #daafde;
+   color: #742d7a;
+}
+
